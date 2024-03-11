@@ -1,0 +1,25 @@
+.header, .footer{
+    background-color: rgb(72, 72, 233);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(48, 44, 44);
+    align-items: center;
+    padding: 20px;
+}
+
+.navbar a {
+    color: white;
+}
+
+.projects a{
+    color: black;
+}
+
